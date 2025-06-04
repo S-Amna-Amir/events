@@ -4,5 +4,4 @@
 HTML5, CSS3 and VanillaJS
 
 ## Bonus Features:
-Search bar
-Dynamic rendering using Javascript
+Search bar and Dynamic rendering using Javascript
